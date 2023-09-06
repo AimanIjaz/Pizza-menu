@@ -68,5 +68,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # Pizza-menu
-# Pizza-menu
+Fast React Pizza Co. is a simple React web application that displays a menu of delicious Italian pizzas. This project serves as a template for a pizza restaurant website, showcasing various pizza options, their ingredients, prices, and availability. It includes a dynamic header, a menu section, and a footer that displays the restaurant's opening hours.
+
+#Key Features:
+
+- Responsive Design: The web app is designed to be responsive, ensuring it looks great on various devices, including desktops, tablets, and mobile phones.
+
+- Dynamic Content: The pizza menu is generated dynamically from an array of pizza objects, making it easy to update and expand the menu with new items.
+
+- Pizza Details: Each pizza item displays its name, ingredients, price, and a corresponding image. Sold-out items are visually marked.
+
+- Header: The header includes the restaurant's name, "Fast React Pizza Co.," which can be customized as needed.
+
+- Footer: The footer displays the current status of the restaurant (open or closed), along with its opening hours. It also provides a button to order online.
+
+- Open/Closed Status: The web app automatically determines whether the restaurant is open based on the current time and the specified opening and closing hours.
+
+- Conditional Rendering: The app uses conditional rendering to show a message if the menu is still being worked on, providing a friendly user experience.
+
+
+
+
+
+
+
+
